@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my name is Aadit Bennur<br>I'm a freshman studying Computer Science at Purdue University and I'm planning on specializing in SWE and ML/AI<br>Most of my background is in Java development and Android apps<br>I've recently began learning C and Python as well!<br>I'm currently working on expanding upon a hackathon project of mine called TweetEQ
+Hi there! My name is Aadit Bennur and I'm a freshman studying Computer Science at Purdue University<br>I'm planning on specializing in SWE and ML/AI with a minor in management<br>Most of my background is in Java development and Android apps<br>I've recently began learning C and Python as well!<br>I'm currently working on expanding upon a hackathon project of mine called TweetEQ
 
 
 ## 🌐 Socials:
