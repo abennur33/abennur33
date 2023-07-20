@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! My name is Aadit Bennur and I'm a freshman studying Computer Science at Purdue University<br>I'm planning on specializing in SWE and ML/AI with a minor in management<br>Most of my background is in Java development and Android apps<br>I've recently began learning C and Python as well!<br>I'm currently working on expanding upon a hackathon project of mine called TweetEQ
+Hi there! My name is Aadit Bennur and I'm a freshman studying Computer Science at Purdue University<br>I'm planning on specializing in SWE and ML/AI with a minor in management<br>Most of my background is in Java development however I've been expanding into full-stack development<br>I've recently worked on both a Flask web app and a Chrome web extension!<br>I'm currently working on expanding upon the aforementioned Flask web app called PassCraft
 
 
 ## 🌐 Socials:
