@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! My name is Aadit Bennur and I'm a junior studying Computer Science at Purdue University<br>I'm planning on specializing in SWE and ML/AI with a minor in management<br>I'm currently working as a software engineering intern at Capital One, working on internal tools<br>I specialize in Java and full-stack development, however am currently dipping my toes into ML focused projects and Kotlin programming as well.
+Hi there! My name is Aadit Bennur and I'm a rising senior studying Computer Science at Purdue University<br>I'm planning on specializing in SWE and ML/AI with a minor in management<br>I'm currently working as a software engineering intern at Amazon Web Services, working on internal tools<br>I specialize in Java and full-stack development, however am currently dipping my toes into ML focused projects and Python programming as well.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aadit-bennur/) 
